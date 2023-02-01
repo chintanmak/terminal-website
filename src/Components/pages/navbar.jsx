@@ -8,7 +8,7 @@ export default function Navbar() {
   return (
     <>
         <div className='navbar_container'>
-          <a href=''><img src={about} /></a>
+          <a href='/about'><img src={about} /></a>
           <a href=''><img src={contact} /></a>
         </div>
         

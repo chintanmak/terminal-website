@@ -1,7 +1,5 @@
 import React from 'react';
 import '../styles/_home.scss';
-import about from '../assets/about.png';
-import contact from '../assets/contact.png';
 
 export default function Home() {
   return (
