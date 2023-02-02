@@ -6,7 +6,7 @@ export default function About() {
     <>
         <div className='about_container'>
             <p>Hi, <br />
-            Chintan Makwana here <br />
+            <a href="/">Chintan Makwana </a>here <br />
             Currently working in Trejhara solution as engineer band 1<br />
             I am a software developer with a 1+ yr of experience and a passionate developer.<br />
             I have done bachelor degree in IT (bsc it) from nagindas khandwala college mumbai <br />

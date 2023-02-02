@@ -9,7 +9,7 @@ export default function Navbar() {
     <>
         <div className='navbar_container'>
           <a href='/about'><img src={about} /></a>
-          <a href=''><img src={contact} /></a>
+          <a href='/contact'><img src={contact}/></a>
         </div>
         
         <Outlet />
