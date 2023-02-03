@@ -9,8 +9,9 @@ export default function Home() {
             Chintan Makwana here <br />
             I am junior Software developer <br />
             currently working @ Trejhara Solution <br />
-            Education - Masters in Computer Science</p>
-        </div>
+            Education - Masters in Computer Science</p><br />
+            
+            </div>
     </>
   )
 }

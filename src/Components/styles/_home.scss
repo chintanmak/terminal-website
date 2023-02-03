@@ -9,6 +9,12 @@
     .home_container{
         margin-top: -2rem;
         padding: 1rem 2rem;
+         & p{
+            & a{
+                text-decoration: none;
+            }
+        }
+       
     }
 }
 
@@ -17,5 +23,11 @@
     .home_container{
         margin-top: -2rem;
         padding: 1rem 4rem;
+        & p{
+            & a{
+                text-decoration: none;
+            }
+        }
+        
     }
 }
